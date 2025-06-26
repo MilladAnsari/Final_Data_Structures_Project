@@ -1,6 +1,6 @@
 # Data Structures Final Project – Debt Tracking System
 
-This repository contains the full C++ solution to the final project of the [Data Structures Course](https://quera.org/course/assignments/64114/print).
+This repository contains the full C++ solution to the final project of the Data Structures Course.
 
 ## 🚩 Problem Overview
 
@@ -21,7 +21,7 @@ The project simulates a system where multiple people lend and borrow money to/fr
 6. **Settle Up:**  
    How much must person S1 pay S2 (with 2 decimals) to settle up their mutual debts?
 
-See the [project assignment](https://quera.org/course/assignments/64114/print) for sample I/O and full statement.
+See the project.pdf for sample I/O and full statement.
 
 ### Constraints
 
