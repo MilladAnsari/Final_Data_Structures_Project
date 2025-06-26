@@ -39,9 +39,9 @@ Make sure you have `g++` (or another C++17+ compiler):
 
 ```bash
 g++ -o project project.cpp
-
+```
 
 ### 2. Run
-
-./project 
-
+```bash
+./project
+```
