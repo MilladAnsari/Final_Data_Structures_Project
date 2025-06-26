@@ -46,6 +46,10 @@ g++ -o project project.cpp
 ./project
 ```
 
+like this screenshots for sample1:
+
+![Screenshot from 2025-06-26 10-48-25](https://github.com/user-attachments/assets/210932e2-d532-44c0-ab75-61bd7ff84a67)
+![Screenshot from 2025-06-26 10-48-13](https://github.com/user-attachments/assets/436c3c13-4148-40dd-bdfa-73ea800b7138)
 
 
 
