@@ -45,3 +45,10 @@ g++ -o project project.cpp
 ```bash
 ./project
 ```
+like this screenshot for input1:
+![Screenshot from 2025-06-26 10-48-13](https://github.com/user-attachments/assets/d669217f-4778-42da-9012-a2fbfa1ebeb1)
+![Screenshot from 2025-06-26 10-48-25](https://github.com/user-attachments/assets/4f75bd0d-52c7-4b7d-8c42-4dc2be520044)
+![Screenshot from 2025-06-26 10-48-25](https://github.com/user-attachments/assets/4f75bd0d-52c7-4b7d-8c42-4dc2be520044)
+
+![Screenshot from 2025-06-26 10-48-13](https://github.com/user-attachments/assets/d669217f-4778-42da-9012-a2fbfa1ebeb1)
+
